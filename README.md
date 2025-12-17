@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋 I'm Elaa Brahmi
 
-<!--
-**elaa-brahmi/elaa-brahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | Full-Stack Developer  | devops enthousiaste 
+🌱 Currently learning & practicing DevOps
 
-Here are some ideas to get you started:
+I build scalable full-stack applications and enjoy working on deployment, automation, and cloud-native tools.  
+My goal is to **design, build, and deploy reliable systems end-to-end**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+-  Next.js
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Spring Boot
+
+**Databases**
+- PostgreSQL, MySQL, MongoDB, Supabase, Firebase
+
+**DevOps & Cloud**
+- Docker, Docker Compose
+- GitHub Actions (CI/CD)
+- Kubernetes
+- AWS (learning and practicing )
+- Railway, Firebase
+- Vercel
+
+**Tools**
+- Git & GitHub
+- Linux
+
+---
+
+## 🔥 What I'm Working On
+- Full-stack projects with clean architecture
+- CI/CD pipelines and automation
+- Containerization & Kubernetes deployments
+- Improving system reliability and scalability
+
+---
+
+👉 Check my pinned repositories below ⬇️
+
+---
+
+## 📫 Get in Touch
+- LinkedIn: https://www.linkedin.com/in/elaa-brahmi-52781132a/
+- Email: elaa.brahmii@gmail.com
+
