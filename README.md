@@ -25,7 +25,8 @@ My goal is to **design, build, and deploy reliable systems end-to-end**.
 - Docker, Docker Compose
 - GitHub Actions (CI/CD)
 - Kubernetes
-- AWS (learning and practicing )
+- Azure (learning and practicing )
+- terraform (learning and practicing)
 - Railway, Firebase
 - Vercel
 
