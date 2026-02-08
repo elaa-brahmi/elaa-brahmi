@@ -32,7 +32,6 @@ My goal is to **design, build, and deploy reliable systems end-to-end**.
 
 **Tools**
 - Git & GitHub
-- Linux
 
 ---
 
